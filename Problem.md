@@ -20,5 +20,4 @@ Assignment:
 
 As a user I should be able to get all the News from the api.
 As a user I should be able to filter the Inportant parts of a news.
-As a Developer I should be able to store todays News into the db.json.
 As a user I should be able to search the news based on the title.
